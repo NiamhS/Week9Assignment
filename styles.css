@@ -9,9 +9,11 @@
 	text-align: left;
 }
 
-/*creating new style class called .theIrishTimes to mirror the style of The Irish Times; see here: http://www.irishtimes.com/
+/*creating three new style classes to try and mirror the style of The Irish Times; see here: http://www.irishtimes.com/
  *
+ * found it difficult to pull style attributes from the console; could not match up exact details with different parts of text
  */
+
 .mainQuote {
 
 	margin-left: -339px;
