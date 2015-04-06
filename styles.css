@@ -9,3 +9,13 @@
   text-align: left;
 	
 }
+
+/*creating new style class called .theIrishTimes to mirror the style of The Irish Times; see here: http://www.irishtimes.com/
+ * 
+ */
+.theIrishTimes {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: Georgia,"Times New Roman",Times,serif;
+}
