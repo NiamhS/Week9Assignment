@@ -1,28 +1,47 @@
-.mainQuote {
-	
+.exampleFromClass {
+
 	font-size: 30px;
-  width: 700px;
-  margin: 0 auto;
-  line-height: 35px;
-  font-family: 'calibri';
-  margin-bottom: 10px;
-  text-align: left;
-	
+	width: 700px;
+	margin: 0 auto;
+	line-height: 35px;
+	font-family: 'calibri';
+	margin-bottom: 10px;
+	text-align: left;
 }
 
 /*creating new style class called .theIrishTimes to mirror the style of The Irish Times; see here: http://www.irishtimes.com/
- * 
+ *
  */
-.theIrishTimes {
-  margin: 0;
-  font-size: 16px;
-  line-height: 1.5em;
-  font-family: Georgia,"Times New Roman",Times,serif;
-  width: 100%;
-  zoom: 1;
-  height: 100%;
-  min-height: 100%;
-  position: relative;
-  display: block;
-  color: #515151;
+.mainQuote {
+
+	margin-left: -339px;
+	margin: 0;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 1.5em;
+	font-family: Georgia;
+	width: 100%;
+	zoom: 1;
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+	display: block;
+	color: black;
+}
+
+.wholeQuote {
+	
+	margin-left: -339px;
+	margin: 0;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.5em;
+	font-family: "Times New Roman";
+	width: 100%;
+	zoom: 1;
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+	display: block;
+	color: #515151;
 }
