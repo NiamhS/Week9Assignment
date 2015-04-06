@@ -45,3 +45,22 @@
 	display: block;
 	color: #515151;
 }
+.details {
+	margin-left: -339px;
+	margin: 0;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1em;
+	font-family: "Times New Roman";
+	width: 12%;
+	zoom: 1;
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+	display: block;
+	color: black;
+	background:#f60!important;
+	
+}
+
+
