@@ -1,3 +1,22 @@
+.moreInfo {
+	
+	display: none;	
+}
+
+.expanded .moreInfo {
+	
+	display: block;
+}
+
+.readMore {
+	margin-left: -339px;
+	margin: 0;
+	font-size: 13px;
+	font-weight: normal;
+	color: red;
+	font-family: Georgia;
+}
+
 .exampleFromClass {
 
 	font-size: 30px;
