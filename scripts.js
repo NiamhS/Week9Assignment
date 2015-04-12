@@ -7,9 +7,12 @@ for (var i=0; i<guardianHeroinData.length; i++) {
 						'<div class = "readMore">Read More</div>'+
 						'<div class = "moreInfo">'+
 							'<div class="wholeQuote">'+rowData.wholeQuote+'</div>'+
-							'<div class="details">'+rowData.source+': </div>'+
-							'<div class="details">'+rowData.yearsClean+', </div>'+	
+							
+								
 							'<div class="details">'+rowData.location+'</div>'+
+							
+							'<div class="details">'+rowData.yearsClean+',</div>'+
+							'<div class="details">'+rowData.source+':</div>'+
 					'</div>'+
 				'</div>');
 				
