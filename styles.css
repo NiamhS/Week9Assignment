@@ -12,7 +12,7 @@
 	margin-left: -339px;
 	margin: 0;
 	font-size: 13px;
-	font-weight: normal;
+	font-weight: bold;
 	color: red;
 	font-family: Georgia;
 }
@@ -47,6 +47,7 @@
 	min-height: 100%;
 	display: block;
 	color: black;
+	
 }
 
 .wholeQuote {
